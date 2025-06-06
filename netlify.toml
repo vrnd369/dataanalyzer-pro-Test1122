@@ -15,4 +15,4 @@
     X-XSS-Protection = "1; mode=block"
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "strict-origin-when-cross-origin"
-    Content-Security-Policy = "default-src 'self'; img-src 'self' data: https:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-eval' https://dataanalyzerpr00.netlify.app; connect-src 'self' https://*.supabase.co https://*.spline.design;"
+    Content-Security-Policy = "default-src 'self'; img-src 'self' data: https: blob:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-eval' https://dataanalyzerpr00.netlify.app https://prod.spline.design; connect-src 'self' https://*.supabase.co https://*.spline.design; worker-src 'self' blob:;"
