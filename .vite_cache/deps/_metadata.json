@@ -1,0 +1,343 @@
+{
+  "hash": "d766ae99",
+  "configHash": "35989504",
+  "lockfileHash": "0edcd7a4",
+  "browserHash": "9d79725e",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "43fcf94a",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../node_modules/react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "a757bbca",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "abfb0265",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../node_modules/react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "b1a49685",
+      "needsInterop": true
+    },
+    "@mui/material/styles": {
+      "src": "../../node_modules/@mui/material/styles/index.js",
+      "file": "@mui_material_styles.js",
+      "fileHash": "c77d87d4",
+      "needsInterop": false
+    },
+    "@mui/material/useMediaQuery": {
+      "src": "../../node_modules/@mui/material/useMediaQuery/index.js",
+      "file": "@mui_material_useMediaQuery.js",
+      "fileHash": "df63d378",
+      "needsInterop": false
+    },
+    "@radix-ui/react-label": {
+      "src": "../../node_modules/@radix-ui/react-label/dist/index.mjs",
+      "file": "@radix-ui_react-label.js",
+      "fileHash": "3357ea82",
+      "needsInterop": false
+    },
+    "@radix-ui/react-progress": {
+      "src": "../../node_modules/@radix-ui/react-progress/dist/index.mjs",
+      "file": "@radix-ui_react-progress.js",
+      "fileHash": "340aab1d",
+      "needsInterop": false
+    },
+    "@radix-ui/react-select": {
+      "src": "../../node_modules/@radix-ui/react-select/dist/index.mjs",
+      "file": "@radix-ui_react-select.js",
+      "fileHash": "98878b79",
+      "needsInterop": false
+    },
+    "@radix-ui/react-slider": {
+      "src": "../../node_modules/@radix-ui/react-slider/dist/index.mjs",
+      "file": "@radix-ui_react-slider.js",
+      "fileHash": "b55c3813",
+      "needsInterop": false
+    },
+    "@radix-ui/react-slot": {
+      "src": "../../node_modules/@radix-ui/react-slot/dist/index.mjs",
+      "file": "@radix-ui_react-slot.js",
+      "fileHash": "5424ac49",
+      "needsInterop": false
+    },
+    "@radix-ui/react-tabs": {
+      "src": "../../node_modules/@radix-ui/react-tabs/dist/index.mjs",
+      "file": "@radix-ui_react-tabs.js",
+      "fileHash": "408ae46d",
+      "needsInterop": false
+    },
+    "@radix-ui/react-tooltip": {
+      "src": "../../node_modules/@radix-ui/react-tooltip/dist/index.mjs",
+      "file": "@radix-ui_react-tooltip.js",
+      "fileHash": "ed8b40af",
+      "needsInterop": false
+    },
+    "@react-sigma/core": {
+      "src": "../../node_modules/@react-sigma/core/lib/react-sigma_core.esm.min.js",
+      "file": "@react-sigma_core.js",
+      "fileHash": "d6d9a8df",
+      "needsInterop": false
+    },
+    "@splinetool/react-spline": {
+      "src": "../../node_modules/@splinetool/react-spline/dist/react-spline.js",
+      "file": "@splinetool_react-spline.js",
+      "fileHash": "ee2784ff",
+      "needsInterop": false
+    },
+    "@supabase/supabase-js": {
+      "src": "../../node_modules/@supabase/supabase-js/dist/module/index.js",
+      "file": "@supabase_supabase-js.js",
+      "fileHash": "5487e84f",
+      "needsInterop": false
+    },
+    "@tensorflow/tfjs": {
+      "src": "../../node_modules/@tensorflow/tfjs/dist/index.js",
+      "file": "@tensorflow_tfjs.js",
+      "fileHash": "d838c84a",
+      "needsInterop": false
+    },
+    "@vercel/speed-insights/react": {
+      "src": "../../node_modules/@vercel/speed-insights/dist/react/index.mjs",
+      "file": "@vercel_speed-insights_react.js",
+      "fileHash": "8a880c4e",
+      "needsInterop": false
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "36e6f8fa",
+      "needsInterop": false
+    },
+    "chart.js": {
+      "src": "../../node_modules/chart.js/dist/chart.js",
+      "file": "chart__js.js",
+      "fileHash": "23a40899",
+      "needsInterop": false
+    },
+    "class-variance-authority": {
+      "src": "../../node_modules/class-variance-authority/dist/index.mjs",
+      "file": "class-variance-authority.js",
+      "fileHash": "13fe2800",
+      "needsInterop": false
+    },
+    "clsx": {
+      "src": "../../node_modules/clsx/dist/clsx.mjs",
+      "file": "clsx.js",
+      "fileHash": "fceebb3a",
+      "needsInterop": false
+    },
+    "framer-motion": {
+      "src": "../../node_modules/framer-motion/dist/es/index.mjs",
+      "file": "framer-motion.js",
+      "fileHash": "dede3384",
+      "needsInterop": false
+    },
+    "graphology": {
+      "src": "../../node_modules/graphology/dist/graphology.mjs",
+      "file": "graphology.js",
+      "fileHash": "d052aa3b",
+      "needsInterop": false
+    },
+    "graphology-metrics/centrality": {
+      "src": "../../node_modules/graphology-metrics/centrality/index.js",
+      "file": "graphology-metrics_centrality.js",
+      "fileHash": "a474097b",
+      "needsInterop": true
+    },
+    "idb": {
+      "src": "../../node_modules/idb/build/index.js",
+      "file": "idb.js",
+      "fileHash": "e1ef3426",
+      "needsInterop": false
+    },
+    "lodash": {
+      "src": "../../node_modules/lodash/lodash.js",
+      "file": "lodash.js",
+      "fileHash": "82de33b2",
+      "needsInterop": true
+    },
+    "lucide-react": {
+      "src": "../../node_modules/lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "19d22402",
+      "needsInterop": false
+    },
+    "mdb-react-ui-kit": {
+      "src": "../../node_modules/mdb-react-ui-kit/dist/mdb-react-ui-kit.esm.js",
+      "file": "mdb-react-ui-kit.js",
+      "fileHash": "7dcecb97",
+      "needsInterop": false
+    },
+    "papaparse": {
+      "src": "../../node_modules/papaparse/papaparse.min.js",
+      "file": "papaparse.js",
+      "fileHash": "8889d994",
+      "needsInterop": true
+    },
+    "react-chartjs-2": {
+      "src": "../../node_modules/react-chartjs-2/dist/index.js",
+      "file": "react-chartjs-2.js",
+      "fileHash": "bfad5623",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "7afabc56",
+      "needsInterop": true
+    },
+    "react-leaflet": {
+      "src": "../../node_modules/react-leaflet/lib/index.js",
+      "file": "react-leaflet.js",
+      "fileHash": "618ac032",
+      "needsInterop": false
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "60d52a9d",
+      "needsInterop": false
+    },
+    "recharts": {
+      "src": "../../node_modules/recharts/es6/index.js",
+      "file": "recharts.js",
+      "fileHash": "7c090aba",
+      "needsInterop": false
+    },
+    "tailwind-merge": {
+      "src": "../../node_modules/tailwind-merge/dist/bundle-mjs.mjs",
+      "file": "tailwind-merge.js",
+      "fileHash": "228821b6",
+      "needsInterop": false
+    },
+    "xlsx": {
+      "src": "../../node_modules/xlsx/xlsx.mjs",
+      "file": "xlsx.js",
+      "fileHash": "65bca56b",
+      "needsInterop": false
+    },
+    "@mui/material": {
+      "src": "../../node_modules/@mui/material/index.js",
+      "file": "@mui_material.js",
+      "fileHash": "517b1e46",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "process-3LIIKWQ5": {
+      "file": "process-3LIIKWQ5.js"
+    },
+    "boolean-EXIMPMZ7": {
+      "file": "boolean-EXIMPMZ7.js"
+    },
+    "howler-HFV3EF3T": {
+      "file": "howler-HFV3EF3T.js"
+    },
+    "opentype-YJJC7PM3": {
+      "file": "opentype-YJJC7PM3.js"
+    },
+    "ui-2DOTFJM5": {
+      "file": "ui-2DOTFJM5.js"
+    },
+    "gaussian-splat-compression-HHYXD5A6": {
+      "file": "gaussian-splat-compression-HHYXD5A6.js"
+    },
+    "browser-JVJNU44C": {
+      "file": "browser-JVJNU44C.js"
+    },
+    "chunk-BAAZMUOT": {
+      "file": "chunk-BAAZMUOT.js"
+    },
+    "navmesh-NH64JDGG": {
+      "file": "navmesh-NH64JDGG.js"
+    },
+    "physics-4HEDVSHQ": {
+      "file": "physics-4HEDVSHQ.js"
+    },
+    "chunk-TAM2IQJX": {
+      "file": "chunk-TAM2IQJX.js"
+    },
+    "chunk-GWUOO66S": {
+      "file": "chunk-GWUOO66S.js"
+    },
+    "chunk-B74LU46N": {
+      "file": "chunk-B74LU46N.js"
+    },
+    "chunk-3UDWCHOJ": {
+      "file": "chunk-3UDWCHOJ.js"
+    },
+    "chunk-O4KQ2AQ4": {
+      "file": "chunk-O4KQ2AQ4.js"
+    },
+    "chunk-IWHSDUZY": {
+      "file": "chunk-IWHSDUZY.js"
+    },
+    "chunk-TCCO5224": {
+      "file": "chunk-TCCO5224.js"
+    },
+    "chunk-CUELOFIB": {
+      "file": "chunk-CUELOFIB.js"
+    },
+    "chunk-S274KGUR": {
+      "file": "chunk-S274KGUR.js"
+    },
+    "chunk-4JN3VQHV": {
+      "file": "chunk-4JN3VQHV.js"
+    },
+    "chunk-LE6F6KRJ": {
+      "file": "chunk-LE6F6KRJ.js"
+    },
+    "chunk-ITVWZULE": {
+      "file": "chunk-ITVWZULE.js"
+    },
+    "chunk-IELMDZPG": {
+      "file": "chunk-IELMDZPG.js"
+    },
+    "chunk-ZUFOHCG7": {
+      "file": "chunk-ZUFOHCG7.js"
+    },
+    "chunk-KDVGFZWC": {
+      "file": "chunk-KDVGFZWC.js"
+    },
+    "chunk-YQBMKNN2": {
+      "file": "chunk-YQBMKNN2.js"
+    },
+    "chunk-AYUTJ6YS": {
+      "file": "chunk-AYUTJ6YS.js"
+    },
+    "chunk-B5G6NMVC": {
+      "file": "chunk-B5G6NMVC.js"
+    },
+    "chunk-M3YEFS6D": {
+      "file": "chunk-M3YEFS6D.js"
+    },
+    "chunk-TFISXPBZ": {
+      "file": "chunk-TFISXPBZ.js"
+    },
+    "chunk-M4SHBUT5": {
+      "file": "chunk-M4SHBUT5.js"
+    },
+    "chunk-2P3ERJ6G": {
+      "file": "chunk-2P3ERJ6G.js"
+    },
+    "chunk-UZNMMFWU": {
+      "file": "chunk-UZNMMFWU.js"
+    },
+    "chunk-N4N5IM6X": {
+      "file": "chunk-N4N5IM6X.js"
+    },
+    "chunk-LK32TJAX": {
+      "file": "chunk-LK32TJAX.js"
+    }
+  }
+}
