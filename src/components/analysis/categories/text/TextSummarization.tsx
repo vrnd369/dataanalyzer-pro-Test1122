@@ -13,7 +13,7 @@ import {
 import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert"
 
 // API configuration
-const API_BASE_URL = 'http://localhost:8003';  // Updated port to match server
+const API_BASE_URL = 'http://localhost:8003';  // Using port 8003
 const API_TIMEOUT = 30000; // 30 seconds timeout
 
 // Debug log to verify API URL
